@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+사용자 CRUD 프로젝트
+
+사용자 정보를 추가 / 수정 / 삭제 / 검색 / 정렬 / 저장할 수 있는 React 기반의 사용자 관리 앱입니다.
